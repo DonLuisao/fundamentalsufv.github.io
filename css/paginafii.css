@@ -52,7 +52,7 @@ ol, ul {
     margin-bottom: 20px;
 }
 
-/* Estilo adicional para ítems en la lista dentro de la sección de contenido */
+
 ol li,
 ol ol li,
 ol ol ol li {
@@ -67,6 +67,9 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+}
+.consulta {
+    padding-bottom: 150px;
 }
 
 
